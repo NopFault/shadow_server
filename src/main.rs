@@ -15,7 +15,7 @@ use std::io;
 
 /**
 * FIX:
-* Writting fast do not looking at beuty :)
+* Writting fast need to fix many things
 */
 
 type HmacSha256 = Hmac<Sha256>;
